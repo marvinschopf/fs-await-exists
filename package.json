@@ -12,7 +12,8 @@
 		"typescript": "^4.1.3"
 	},
   "scripts":{
-    "test": "ava"
+    "test": "ava",
+    "build": "tsc"
   },
 	"ava": {
 		"extensions": [
