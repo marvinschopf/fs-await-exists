@@ -26,10 +26,10 @@
 		"ts-node": "^9.1.1",
 		"typescript": "^4.1.3"
 	},
-  "scripts":{
-    "test": "ava",
-    "build": "tsc"
-  },
+	"scripts": {
+		"test": "ava",
+		"build": "tsc"
+	},
 	"ava": {
 		"extensions": [
 			"ts"
