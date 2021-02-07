@@ -18,6 +18,7 @@
 		"email": "marvin@schopf.biz",
 		"url": "https://www.marvinschopf.com"
 	},
+	"funding": "https://github.com/marvinschopf/fs-await-exists?sponsor=1",
 	"private": false,
 	"devDependencies": {
 		"@types/node": "^14.14.25",
