@@ -5,7 +5,7 @@
 	"types": "dist/index.d.ts",
 	"repository": "https://github.com/marvinschopf/fs-await-exists",
 	"license": "Apache-2.0",
-	"description": "Check if a file exists using async / await.",
+	"description": "📁 Check if a file exists using async / await.",
 	"keywords": [
 		"file exists",
 		"fs exists",
